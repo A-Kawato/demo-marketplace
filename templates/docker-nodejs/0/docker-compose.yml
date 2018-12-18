@@ -1,0 +1,7 @@
+version: "2"
+
+services:
+  docker-nodejs:
+    image: akawato2018/docker-nodejs:latest
+    network_mode: host
+  

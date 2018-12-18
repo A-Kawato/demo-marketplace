@@ -1,0 +1,5 @@
+.catalog:
+  name: Node.js POSIX syslog
+  version: latest
+  uuid: nodejs-0
+
