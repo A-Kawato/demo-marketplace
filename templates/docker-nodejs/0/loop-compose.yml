@@ -1,5 +1,5 @@
 .catalog:
-  name: Node.js POSIX syslog
+  name: Node.js syslog test
   version: latest
   uuid: nodejs-0
 

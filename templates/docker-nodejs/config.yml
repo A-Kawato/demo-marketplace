@@ -1,5 +1,5 @@
 name: Node.js syslog test
 description: Node.js posix
 category: Programming
-version: 2.7
+version: "0.1"
 
