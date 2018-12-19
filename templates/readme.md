@@ -1,1 +1,0 @@
-#node.js syslog test.
