@@ -1,0 +1,7 @@
+version: "2"
+
+services:
+  python-nats:
+    image: akawato2018/python-nats:latest
+    network_mode: host
+

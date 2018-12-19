@@ -1,5 +1,5 @@
-name: Node.js syslog test
-description: Node.js posix
+name: Nodejs syslog test
+description: Nodejs is posix test
 category: Programming
 version: "0.1"
 

@@ -1,5 +1,5 @@
 .catalog:
-  name: Node.js syslog test
+  name: Nodejs syslog test
   version: latest
-  uuid: nodejs-0
+  uuid: nodejs-syslog-0
 
