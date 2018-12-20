@@ -1,0 +1,5 @@
+.catalog:
+  name: nodejs-test
+  version: latest
+  uuid: nadejs-test-0
+
