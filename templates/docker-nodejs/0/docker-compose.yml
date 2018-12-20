@@ -4,7 +4,5 @@ services:
   docker-nodejs:
     image: akawato2018/docker-nodejs:latest
     ports:
-      - "20000:20000"
-    volumes:
-      - ./:/root/
+      - "80:20000"
 
