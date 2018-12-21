@@ -1,0 +1,5 @@
+.catalog:
+  name: Nodejs nats test
+  version: latest
+  uuid: nodejs-nats-0
+

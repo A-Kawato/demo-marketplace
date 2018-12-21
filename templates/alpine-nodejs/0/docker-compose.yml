@@ -1,0 +1,7 @@
+version: '2'
+
+services:
+  nodejs-nats:
+    image: akawato2018/docker-nodejs:latest
+
+
