@@ -2,6 +2,6 @@ version: '2'
 
 services:
   nodejs-nats:
-    image: akawato2018/docker-nodejs:latest
+    image: akawato2018/alpine-nodejs:latest
 
 
